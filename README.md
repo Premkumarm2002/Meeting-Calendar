@@ -47,6 +47,7 @@ How to Run:
 1. Clone the repository:
 
 git clone https://github.com/Premkumarm2002/Meeting-Calendar.git
+
 cd Meeting-Calendar
 
 2. Run the application:
